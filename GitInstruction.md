@@ -58,4 +58,6 @@ git switch <hash_of_commit>
 
 С.Чакон, Б.Штрауб - Git для профессионального программиста (2016)
 https://git-scm.com/book/ru/v2
-
+https://git-scm.com/book/ru/v2
+https://git-scm.com/book/ru/v2
+https://git-scm.com/book/ru/v2
