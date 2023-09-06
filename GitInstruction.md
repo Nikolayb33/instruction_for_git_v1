@@ -29,6 +29,7 @@ git commit -am "описание коммита"
 ```Bash
 git log
 git log --oneline
+git log --graph
 ```
 
 ## 6. Показать изменения файла
