@@ -57,5 +57,12 @@ git switch <hash_of_commit>
 ## 8. Литература
 
 С.Чакон, Б.Штрауб - Git для профессионального программиста (2016)
+<<<<<<< HEAD
 
 [сайт](https://git-scm.com/book/ru/v2)
+=======
+https://git-scm.com/book/ru/v2
+https://git-scm.com/book/ru/v2
+https://git-scm.com/book/ru/v2
+https://git-scm.com/book/ru/v2
+>>>>>>> literature_2
